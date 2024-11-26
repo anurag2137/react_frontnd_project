@@ -158,13 +158,13 @@ Ensure the following are installed:
 
 ---
 ## Login Details:
-1.[Role: admin]
+1.**[Role: admin]**
     --Email: admin@example.com 
     --Password: admin123 
-2.[Role: user]
+2.**[Role: user]**
     --Email: user@example.com 
     --Password: user123
-3.[Role: vendor]
+3.**[Role: vendor]**
     --Email: creator@example.com 
     --Password: creator123
     ---
