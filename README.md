@@ -133,7 +133,7 @@ Ensure the following are installed:
 ### **Installation Steps**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<YourGitHubUsername>/admin-dashboard-rbac
+   git clone https://github.com/bhardwajankit354/RVAC-VRV.git
    cd admin-dashboard-rbac
    ```
 
