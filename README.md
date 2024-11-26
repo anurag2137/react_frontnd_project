@@ -167,8 +167,8 @@ Ensure the following are installed:
 ### **3.Role: vendor**
     Email: creator@example.com 
     Password: creator123
-    ---
-
+    
+---
 ## **Conclusion**
 
 This project highlights my ability to implement secure and scalable **Role-Based Access Control (RBAC)** systems. By leveraging React and modern front-end practices, this dashboard provides efficient user and role management features with a responsive and intuitive UI.
